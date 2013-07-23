@@ -5,11 +5,11 @@ Power by javascript.
 
 ## Need to know: Photoporc.js is based on:
 
-[https://github.com/stomita/ios-imagefile-megapixel](ios-imagefile-megapixel)
+(https://github.com/stomita/ios-imagefile-megapixel)[ios-imagefile-megapixel]
 
-[https://github.com/jseidelin/exif-js](exif-js)
+(https://github.com/jseidelin/exif-js)[exif-js]
 
-[https://github.com/EightMedia/hammer.js](Hammer.js)
+(https://github.com/EightMedia/hammer.js)[Hammer.js]
 
 
 ## How to use.
